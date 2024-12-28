@@ -20,6 +20,7 @@ Outcome: Enhance sales performance, reduce marketing costs, and improve customer
 3. Make clasification models machine learning from clusters dataset
 
 ## Business Dashboard
+![alt text](https://github.com/Shodiqfathoni/Clustering-project-IDcamp-beginner/blob/main/dasboard.jpg?raw=true)
 I created that dashboard to provide visual information that is easy to understand. It helps sellers make the right decisions, such as focusing on cars with high demand from customers. Additionally, it allows sellers to evaluate the performance of sold cars based on historical data so that the business can optimize stock and business strategies and to continuously monitor sales performance and update strategies based on real-time data trends.
 
 ## Conclusion
